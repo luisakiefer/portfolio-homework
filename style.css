@@ -106,3 +106,10 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+.footer {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+font-size: 12px;
+}
